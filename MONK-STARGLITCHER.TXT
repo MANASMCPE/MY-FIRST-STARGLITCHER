@@ -2,10 +2,10 @@
 local chatDelay = 1.25
 local messages = {
     "-gh 14157137406 95290698984301 84451219120140  72292903231768 108186273151388 139904067056008 10971858125 5316479641 5316549755 5699795428 5316539421 126461620175785 4504231783 215718515 215718515",
-    "MonK ProtOTyPe",
-    "BRO USE MY SCRIPTS ",
-    "-pd", -- Added right below -pd
-    "SCriPt By MG_MANASR7 "
+    "MonK V2 ",
+    "NEW SCRIOT BY MONK WEEEEE ",
+    "-net", -- Added right below -pd
+    "SCriPt By MG_MANASR7 Its V2 ProtoType"
 }
 
 -- Function to safely send chat messages across different Roblox chat systems
