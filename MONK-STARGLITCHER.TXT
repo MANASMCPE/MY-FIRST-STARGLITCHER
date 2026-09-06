@@ -5,7 +5,7 @@ local messages = {
     "MonK V2 Fe ",
     "NEW SCRIPT BY MONK WEEEEE ",
     "-net", -- Added right below -pd
-    "SCriPt By MG_MANASR7 Its V2 ProtoType"
+    "SCriPt By SuperMonKxscripts V2 WrokiNg!"
 }
 
 -- Function to safely send chat messages across different Roblox chat systems
